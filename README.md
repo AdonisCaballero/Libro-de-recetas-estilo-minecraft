@@ -224,7 +224,4 @@ git push -u origin main
 
 ## Autores
 
-DANICA LINDSAY VARGAS ARÉVALO 
-Adonis Caballero alamo 
-Pablo Rodríguez Gómez 
-Alvaro Fernandez Montero
+ADONIS CABALLERO ÁLAMO
